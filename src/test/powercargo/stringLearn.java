@@ -9,8 +9,7 @@ public class stringLearn {
 			System.out.println(String.format("第%d行数据", index));
 			for(int index1=0;index1<myFloats[index].length;index1++) {
 				
-			    System.out.println(myFloats[index][index1]);
-			
+			    System.out.println(myFloats[index][index1]);			
 			}
 		}
 			
