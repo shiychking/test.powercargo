@@ -1,6 +1,6 @@
 package test.powercargo;
 
-public class stringLearn {
+public class Learn2 {
 	public static void main(String[] args) {
 
         System.out.println(10-1>=9);
@@ -16,5 +16,5 @@ public class stringLearn {
 		
 	}
 
-
+ 
 }
